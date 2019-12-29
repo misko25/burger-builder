@@ -1,10 +1,10 @@
 # burger-builder
-Burger builder app created with Reactjs
+Burger builder app created with React.js
 
 
 # Installation
 
-- Navigate to burger-builder dir
+- Navigate to burger-builder DIR
 - Run npm install
 - Run npm start
 
