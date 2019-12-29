@@ -1,0 +1,8 @@
+# dependencies
+/burger-builder/node_modules
+
+# testing
+/burger-builder/coverage
+
+# production
+/burger-builder/build
