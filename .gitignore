@@ -6,3 +6,9 @@
 
 # production
 /burger-builder/build
+
+#macOS files
+/.idea/
+
+#log
+/npm-debug.log
