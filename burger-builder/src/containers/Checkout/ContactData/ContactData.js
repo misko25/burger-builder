@@ -110,7 +110,7 @@ class ContactData extends Component {
             .post("/orders.json", order)
             .then(response => {
                 this.setState({ loading: false });
-                this.props.history.push("/burger-builder");
+                this.props.history.push("/");
             })
             .catch(error => {
                 this.setState({ loading: false });
